@@ -49,6 +49,12 @@ Spark Intelligence is an AI architecture initiative under Labs Spark.
 
 This repository is intended to document architecture, design decisions, and future technical development as the project evolves.
 
+## Usage & Rights
+
+© 2026 Shreyash Verma / Labs Spark. All rights reserved.
+
+The Spark Intelligence architecture concepts, specifications (including AURA and PRISM), documentation, and associated materials in this repository are proprietary and **not** open-source. You may view this repository for reference only and may **not** copy, modify, redistribute, or use these materials in personal, academic, or commercial projects without prior written permission from the owner.
+
 ---
 
 An evolving exploration of AI system design.
